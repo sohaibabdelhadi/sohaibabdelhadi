@@ -7,7 +7,6 @@
 
 Skills:  HTML / CSS/ JS/ REACT JS/JQuery/Media Query/Bootstrap
 
-- 🔭 I’m currently working on this page. 
 
 
 
@@ -19,9 +18,7 @@ Skills:  HTML / CSS/ JS/ REACT JS/JQuery/Media Query/Bootstrap
 
 
 
-Skills:  HTML / CSS/ JS/ REACT JS/JQuery/Media Query/Bootstrap
 
-- 🔭 I’m currently working on this page. 
 
 
 
