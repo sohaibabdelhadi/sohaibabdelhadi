@@ -1,4 +1,6 @@
 ### Hi there 👋
+**I am Sohaib Abdelhadi, from Palestine, Tulkarm, I am a fresh Frontend developer and aspiring to be a FullStack developer, I really enjoy learning languages such as JavaScript,c++,java and frameworks like ReactJS**
+
 
 <!--
 **sohaibabdelhadi/sohaibabdelhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
