@@ -1,44 +1,19 @@
-### Hi there 👋, Sohaib Abdelahdi 
-#### Frontend Developer 
-![Frontend Developer ](https://scontent.fjrs1-2.fna.fbcdn.net/v/t39.30808-6/277669106_10218563159065059_5519753886929883292_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=EkRHvAOxgU4AX94a9mT&_nc_ht=scontent.fjrs1-2.fna&oh=00_AT9eFFucx3EompGznWQh891SG3L6PdCYXNikot83bqoJMQ&oe=624FE4F7)
+### Hi there 👋, Sohaib Abdelhadi
+#### Frontend Developer
+![Frontend Developer](https://www.linkedin.com/in/sohaib-abdelhadi-7bb74418a/)
 
-**I am Sohaib Abdelhadi, from Palestine, Tulkarm, I am a fresh Frontend developer and aspiring to be a FullStack Developer, I really enjoy learning languages such as JavaScript,C++,Java and frameworks like ReactJS**
-
-
-Skills:  HTML / CSS/ JS/ REACT JS/JQuery/Media Query/Bootstrap
+I am Sohaib Abdelhadi, from Palestine, Tulkarm, I am a fresh Frontend developer and aspiring to be a FullStack Developer, I really enjoy learning languages such as JavaScript, C++, Java, and frameworks like ReactJS, BootStrap, JQuery. 
+currently, I am looking for an Internship opportunity to improve my skills and get immersed in real projects where I can gain real experience, improve my skills and share it with people.  
 
 
-
+Skills:   REACTJS / JS / HTML / CSS/Bootstrap/jQuery/Media Query/Git/GitHub/C++/OOP
 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sohaibabdelhadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sohaib Abdelhadi/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibabdelhadi)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibabdelhadi&show_icons=true)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**sohaibabdelhadi/sohaibabdelhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/sohaibabdelhadi)  
