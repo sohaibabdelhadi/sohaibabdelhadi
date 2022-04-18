@@ -15,7 +15,6 @@ Additional Skills: 💻 jQuery/Media Query/Git/GitHub/OOP
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sohaibabdelhadi)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibabdelhadi)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,4 +23,5 @@ Additional Skills: 💻 jQuery/Media Query/Git/GitHub/OOP
 ![Profile views](https://gpvc.arturio.dev/sohaibabdelhadi)  
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sohaibabdelhadi)  
 
