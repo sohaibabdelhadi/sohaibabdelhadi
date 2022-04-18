@@ -1,7 +1,7 @@
 
 ![Frontend Developer](https://pbs.twimg.com/profile_images/1242243613377155072/0upi6ujq.jpg)
 
-#### Hi there 👋, Sohaib Abdelhadi
+### Hi there 👋, I am Sohaib Abdelhadi
 ### Frontend Developer
 
 I am Sohaib Abdelhadi, from Palestine, Tulkarm, I am a fresh Frontend developer and aspiring to be a FullStack Developer, I really enjoy learning languages such as JavaScript, C++, Java, and frameworks like ReactJS, BootStrap, JQuery. 
