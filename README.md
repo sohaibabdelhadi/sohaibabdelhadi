@@ -4,8 +4,8 @@
 ### Hi there 👋, I am Sohaib Abdelhadi
 ### Frontend Developer
 
-I am Sohaib Abdelhadi, from Palestine, Tulkarm, I am a fresh Frontend developer and aspiring to be a FullStack Developer, I really enjoy learning languages such as JavaScript, C++, Java, and frameworks like ReactJS, BootStrap, JQuery. 
-currently, I am looking for an Internship opportunity to improve my skills and get immersed in real projects where I can gain real experience, improve my skills and share it with people.  
+I am Sohaib Abdelhadi, and I am a Frontend developer from Palestine, Tulkarm. I am passionate about learning programming languages such as JavaScript, C++, and Java, as well as frameworks like ReactJS, BootStrap, and JQuery. I am also a skilled problem solver and proficient in C++. I am currently seeking an internship opportunity to gain real-world experience and improve my skills. I am eager to work on real projects and share my knowledge with others.
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
